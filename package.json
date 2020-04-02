@@ -1,0 +1,22 @@
+{
+  "name": "share",
+  "version": "0.1.1",
+  "description": "Share",
+  "cordova": {
+    "id": "nl.madebymark.share",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "share",
+    "facebook",
+    "twitter",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "wl",
+  "license": "Apache 2.0"
+}
